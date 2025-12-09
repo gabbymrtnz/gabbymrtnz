@@ -16,7 +16,7 @@ Actualmente me especializo en **Análisis de Datos Junior**, con experiencia en 
 ## 📜 Certificados
 Aquí puedes encontrar mis certificaciones y logros:  
 - [Certificado de Excel Avanzado](#)  
- <img src="referencia_god.png" alt="Certificado Excel" width="400" style="border-radius:20px;"/>
+ <img src="referencia_god.png" alt="Certificado Excel" width="400" style="border-radius:100px;"/>
 - [Otros certificados](#)  
 
 *(Reemplaza el `#` con los enlaces reales a tus certificados en Google Drive, LinkedIn, o cualquier plataforma donde los tengas publicados.)*
