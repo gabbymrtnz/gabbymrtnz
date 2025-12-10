@@ -17,8 +17,7 @@ Actualmente me especializo en **Análisis de Datos Junior**, con experiencia en 
 Aquí puedes encontrar mis certificaciones y logros:  
 - [Certificado de Excel](#)  
 
- <img src="Certificado_Triunfa_Excel.png" alt="Certificado Excel" width="400" style="border-radius:100px;"/>
-- [Otros certificados](#)  
+ <img src="Certificado_Triunfa_Excel.png" alt="Certificado Excel" width="400" style="border-radius:100px;"/> 
 
 - [Certificado de Microsoft Office Specialist](#)
 
