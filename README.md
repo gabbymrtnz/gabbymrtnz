@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, Saludos👋
 # 👩‍💻 Gabriela Martinez
 
 ¡Hola! Soy **Ingeniera en Sistemas** apasionada por la tecnología y el aprendizaje continuo.  
@@ -8,18 +8,21 @@ Actualmente me especializo en **Análisis de Datos Junior**, con experiencia en 
 
 ## 🚀 Especialidades
 - 📊 Análisis de datos (nivel junior)  
-- 📈 Manejo avanzado de Excel (tablas dinámicas, gráficos, fórmulas)  
+- 📈 Manejo avanzado de Excel (tablas dinámicas, gráficos, Macros, fórmulas, entre otros.)  
 - 🛠️ Herramientas Office (Word, PowerPoint, Access)  
 
 ---
 
 ## 📜 Certificados
 Aquí puedes encontrar mis certificaciones y logros:  
-- [Certificado de Excel Avanzado](#)  
- <img src="referencia_god.png" alt="Certificado Excel" width="400" style="border-radius:100px;"/>
+- [Certificado de Excel](#)  
+
+ <img src="Certificado_Triunfa_Excel.png" alt="Certificado Excel" width="400" style="border-radius:100px;"/>
 - [Otros certificados](#)  
 
-*(Reemplaza el `#` con los enlaces reales a tus certificados en Google Drive, LinkedIn, o cualquier plataforma donde los tengas publicados.)*
+- [Certificado de Microsoft Office Specialist](#)
+
+<img src="Microsoft_Office_Specialist.png" alt="Certificado Excel" width="400" style="border-radius:100px;"/>
 
 ---
 
